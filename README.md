@@ -72,10 +72,5 @@ Potential improvements:
 - Add mobile-specific touch controls for direction
 - Create separate CSS and JS files for better organization
 
-## 📄 License
-
-This project is open source and available for modification and distribution.
-
----
 
 *Enjoy playing Snake! Relive the classic arcade experience with modern web technologies.*
